@@ -85,7 +85,7 @@ def subZ(z):
     return z.replace("=", "-(") + ")"
 
 
-printYellowRed("本程序由" + "邬乐" + "出品，用于方程验算 #2406Workshop@2018.12.16\r\n")
+printYellowRed("本程序由" + "邬乐" + "出品，用于方程验算 #2406Workshop@2019.2.27,v1.2\r\n")
 
 while 1:
     j = input("一元一次方程还是二元一次方程？输入1或者2并回车，输入其他退出程序：")
