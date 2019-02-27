@@ -1,6 +1,9 @@
 from sympy import *
 import re
-# coding=utf-8
+#coding=utf-8
+#This is version 1.1
+#Do not mess up, it is not compatible with v1.2.
+
 
 
 # v1.0 branch commit line
