@@ -2,7 +2,7 @@ from sympy import *
 import re
 #coding=utf-8
 #This is version 1.1
-#Do not mess up, it is not compatible with v1.2.
+#Do not mess up, it is not compatible with v1.2. 
 
 
 
